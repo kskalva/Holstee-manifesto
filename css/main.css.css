@@ -1,0 +1,85 @@
+
+h1 {
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Homemade Apple', cursive;
+
+}
+
+.main-section {
+	font-family: 'Amatic SC', cursive;
+	font-weight: normal;
+	margin: 0px 10px 10px 10px;
+	padding: 0px 200px 0px 200px;
+	text-transform: uppercase;
+	width: 960px;
+	font-size: 30px;
+	text-align: justify;
+	overflow: auto;
+}
+
+p {
+    padding: 5px 5px 5px 5px;
+    margin: 10px 10px 10px 10px;
+    float: left;
+}
+
+#start	{
+	width: 500px;
+
+}
+
+#donts {
+	width: 400px;
+}
+
+#love {
+	margin-top: -90px;
+	width: 500px;
+}
+
+
+#simple, #eat {
+	margin-left: 10px;
+	margin-top: -5px;
+	width: 400px;
+	padding: 0px 0px 0px 0px;
+}
+
+#united {
+	margin-top: 5px;
+	width: 500px;
+	padding: 0px 0px 0px 0px;
+	font-size: 30px;
+}
+
+#passion {
+	width: 400px;
+}
+
+#travel {
+	width: 500px;
+	margin-top: -40px;
+	font-size: 40px;
+}
+
+#seize {
+	width: 400px;
+	font-size: 30px;
+	margin-top: -10px;
+}
+
+#people {
+	width: 900px;
+	margin-top: -20px;
+}
+
+footer {
+	font-size: 50px;
+	width: 1000px;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 0px 200px 0px 200px;
+	font-family: 'Monoton', cursive;
+
+}
